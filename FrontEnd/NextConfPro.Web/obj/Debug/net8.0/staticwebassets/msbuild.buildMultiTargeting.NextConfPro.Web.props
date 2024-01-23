@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/NextConfPro.Web.props" />
+</Project>

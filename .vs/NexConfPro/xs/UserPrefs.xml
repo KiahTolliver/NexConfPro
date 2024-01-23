@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FrontEnd/NextConfPro.Web/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="FrontEnd/NextConfPro.Web/Views/Shared/_Layout.cshtml" Line="35" Column="24" />
+      <File FileName="FrontEnd/NextConfPro.Web/Controllers/EventController.cs" />
+      <File FileName="FrontEnd/NextConfPro.Web/Service/EventService.cs" />
+      <File FileName="FrontEnd/NextConfPro.Web/Models/RequestDto.cs" />
+      <File FileName="FrontEnd/NextConfPro.Web/Service/BaseService.cs" />
+      <File FileName="FrontEnd/NextConfPro.Web/Models/EventDto.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="NexConfPro" expanded="True">
+            <Node name="Services" expanded="True" />
+            <Node name="NextConfPro.Web" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Service" expanded="True">
+                <Node name="IService" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{A122FBB7-95A6-46C6-BE18-5A5318D980E7}" ItemName="NextConfPro.Services.EventAPI" ConfigurationId="https" />
+        <StartupItem ItemId="{AB2E18E0-822E-4C97-AF2A-3DB7953CD3A2}" ItemName="NextConfPro.Web" ConfigurationId="https" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.NextConfPro.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Services.NextConfPro.Services.EventAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
