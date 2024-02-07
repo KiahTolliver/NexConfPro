@@ -99,6 +99,7 @@ namespace NextConfPro.Services.EventAPI.Controllers
         }
 
         [HttpDelete]
+        [Route("{id:int}")]
         public ResponseDto Delete(int id)
         {
             try

@@ -22,6 +22,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXZlbnQvRXZlbnRDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/kiah.tolliver/NexConfPro/FrontEnd/NextConfPro.Web/Views/Event/EventDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXZlbnQvRXZlbnREZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/kiah.tolliver/NexConfPro/FrontEnd/NextConfPro.Web/Views/Event/EventIndex.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXZlbnQvRXZlbnRJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

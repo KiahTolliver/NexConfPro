@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="Multiple Projects">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="FrontEnd/NextConfPro.Web/Views/Shared/_Layout.cshtml">
+﻿<Properties StartupConfiguration="{64ED9B22-EA3A-43B6-979C-4173DAAF165A}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FrontEnd/NextConfPro.Web/Views/EventIndex.cshtml">
     <Files>
       <File FileName="FrontEnd/NextConfPro.Web/Views/Shared/_Layout.cshtml" Line="35" Column="24" />
-      <File FileName="FrontEnd/NextConfPro.Web/Controllers/EventController.cs" />
-      <File FileName="FrontEnd/NextConfPro.Web/Service/EventService.cs" />
-      <File FileName="FrontEnd/NextConfPro.Web/Models/RequestDto.cs" />
-      <File FileName="FrontEnd/NextConfPro.Web/Service/BaseService.cs" />
-      <File FileName="FrontEnd/NextConfPro.Web/Models/EventDto.cs" />
+      <File FileName="FrontEnd/NextConfPro.Web/Controllers/EventController.cs" Line="24" Column="1" />
+      <File FileName="FrontEnd/NextConfPro.Web/Service/EventService.cs" Line="41" Column="1" />
+      <File FileName="FrontEnd/NextConfPro.Web/Models/RequestDto.cs" Line="7" Column="1" />
+      <File FileName="FrontEnd/NextConfPro.Web/Service/BaseService.cs" Line="77" Column="1" />
+      <File FileName="FrontEnd/NextConfPro.Web/Views/EventIndex.cshtml" Line="12" Column="32" />
+      <File FileName="FrontEnd/NextConfPro.Web/Models/EventDto.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -22,10 +22,8 @@
                 <Node name="IService" expanded="True" />
               </Node>
               <Node name="Views" expanded="True">
+                <Node name="Event" selected="True" />
                 <Node name="Home" expanded="True" />
-                <Node name="Shared" expanded="True">
-                  <Node name="_Layout.cshtml" selected="True" />
-                </Node>
               </Node>
             </Node>
           </Node>
@@ -33,6 +31,12 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NextConfPro.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Services/NextConfPro.Services.EventAPI/NextConfPro.Services.AuthAPI/NextConfPro.Services.AuthAPI.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.Services.NextConfPro.Services.EventAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations>
     <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
@@ -42,9 +46,6 @@
       </Items>
     </MultiItemSolutionRunConfiguration>
   </MultiItemStartupConfigurations>
-  <MonoDevelop.Ide.ItemProperties.NextConfPro.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Services.NextConfPro.Services.EventAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Services.NextConfPro.Services.AuthAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
 </Properties>

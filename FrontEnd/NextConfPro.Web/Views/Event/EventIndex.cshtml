@@ -23,10 +23,7 @@
                         Name
                     </th>
                     <th>
-                        Date
-                    </th>
-                    <th>
-                        Start Time
+                        Date & Time
                     </th>
                     <th>
                         Location
@@ -42,16 +39,13 @@
                     @item.Name
                 </td>
                 <td>
-                    @(item.Date.ToShortDateString())
-                </td>
-                <td>
-                    @(item.StartTime.ToLocalTime())
+                    @(item.Date.ToString("MM/dd/yyyy h:mm tt"))
                 </td>
                 <td>
                     @item.Location
                 </td>
                 <td>
-                    <a class="btn btn-danger">
+                    <a asp-action="EventDelete" asp-route-id="@item.Id" class="btn btn-danger">
                         <i class="bi bi-trash"></i>
                     </a>
                 </td>
