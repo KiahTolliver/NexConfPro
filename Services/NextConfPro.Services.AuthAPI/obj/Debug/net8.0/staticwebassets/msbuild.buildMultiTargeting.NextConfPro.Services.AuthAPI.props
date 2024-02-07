@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/NextConfPro.Services.AuthAPI.props" />
+</Project>
